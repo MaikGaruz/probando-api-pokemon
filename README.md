@@ -10,6 +10,10 @@
  ![image](https://github.com/user-attachments/assets/5757bf28-58a0-472e-b4f2-e3f3cc55cc48)
 
  
+
+
+
+
  
  El menu como puedes ver es muy sencillo, lo importante y lo que nos interesa aqui es el como se
  hace el cumplimiento de cada una de estas opciones. En algunas opciones, como por ejemplo en la 
