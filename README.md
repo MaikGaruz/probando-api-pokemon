@@ -1,10 +1,10 @@
 # probando-api-pokemon
  Consumiendo una API sobre pokemon.
 
- IDEs: IntelliJ IDEA y MySQL Workbench
- Lenguajes: Java, SQL, JPQL
- Framework: Spring boot
- Herramientas: Flyway, Lombok, Hibernate, JPA, Jackson DataBind
+# IDEs: IntelliJ IDEA y MySQL Workbench
+# Lenguajes: Java, SQL, JPQL
+# Framework: Spring boot
+# Herramientas: Flyway, Lombok, Hibernate, JPA, Jackson DataBind
  
  La aplicacion cuenta con el siguiente menu sencillo:
  
