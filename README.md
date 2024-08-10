@@ -7,6 +7,7 @@
  Herramientas: Flyway, Lombok, Hibernate, JPA, Jackson DataBind
  
  La aplicacion cuenta con el siguiente menu sencillo:
+ 
  ![image](https://github.com/user-attachments/assets/5757bf28-58a0-472e-b4f2-e3f3cc55cc48)
 
  
