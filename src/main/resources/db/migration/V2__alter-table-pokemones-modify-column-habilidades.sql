@@ -1,0 +1,1 @@
+ALTER TABLE pokemones MODIFY COLUMN habilidades VARCHAR(1000);
